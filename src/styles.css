@@ -29,7 +29,7 @@ button:focus {
 }
 
 .sidebar--note {
-  display: flex;
+  /* display: flex; */
 }
 
 .sidebar--header {
